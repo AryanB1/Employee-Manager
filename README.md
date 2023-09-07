@@ -1,4 +1,4 @@
-# employeemanager
+# Employee Manager
 # Introduction
 
 This project is a full stack web app that allows users to manage employees. The backend is implemented in Spring Boot and uses MySQL as the database. The frontend is implemented in Angular.
