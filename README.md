@@ -33,4 +33,4 @@ To install this project, you will need the following:
 * npm
 
 Once you have installed the required software, you can clone the project from GitHub:
-git clone https://github.com/[your-username]/employee-management-app.git
+git clone https://github.com/AryanB1/employee-management-app.git
